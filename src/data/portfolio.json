@@ -1,0 +1,28 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/two.png",
+            "title": "Lunar Phase Tracker",
+            "description": " HTML, CSS, Javascript, ReactJS, LuneJS",
+            "url": "http://phasesofsans.in/"
+        },
+        {
+            "cover": "/portfolio/1/three.png",
+            "title": " The Guiding Hand",
+            "description": "HTML, CSS, Javascript, Python, OpenCV, ReactJS",
+            "url": "https://bit.ly/GUIDH"
+        },
+        {
+            "cover": "/portfolio/1/four.png",
+            "title": "React Movie Database App",
+            "description": " HTML, CSS, Javascript, ReactJS",
+            "url": "https://redreactmoviedb.netlify.app/"
+        },
+        {
+            "cover": "/portfolio/1/five.png",
+            "title": "Rab Da Banda Foundation Website",
+            "description": "HTML, CSS, Javascript",
+            "url": "https://rabdabandafoundation.github.io/"
+        }
+    ]
+}
