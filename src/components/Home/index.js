@@ -39,6 +39,7 @@ const Home = () => {
         </h1>
         <h2>Frontend Developer / Full Stack Developer </h2>
         <Link to="/contact" className='flat-button'>CONTACT ME</Link>
+        <Link to="https://drive.google.com/file/d/13F3628UbgHUtUBORJzgXKx0rYnPK8_cy/view?usp=sharing" target="_blank" className='flat-button'>RESUME</Link>
         </div>
         <Logo/>
     </div>
