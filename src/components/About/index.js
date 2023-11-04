@@ -37,17 +37,16 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+          Heya! I'm Rudransh Arora, a passionate and dedicated frontend developer with a Bachelors in Electronics and Computer Engineering from TIET, Patiala. I thrive on creating user-friendly and visually appealing websites that leave a lasting impression.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+          With experience in web security and development, I have honed my skills in languages such as C, C++, Python, HTML, CSS, and JavaScript. During my internship at the Defence Research and Development Organisation (DRDO), I had the opportunity to work on implementing secure communication channels for drones, ensuring effective and encrypted data transmission.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          I am constantly seeking new challenges and opportunities to expand my knowledge and skills. If you're looking for a dedicated and innovative frontend developer, I would love to connect and discuss how I can contribute to your projects.
+          </p>
+          <p>
+          Feel free to explore my portfolio and connect with me on LinkedIn or GitHub. Let's create something amazing together!
           </p>
         </div>
 
