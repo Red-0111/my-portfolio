@@ -4,7 +4,7 @@ import LogoSubtitle from '../../assets/images/logo_subr.png'
 import { Link, NavLink } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCode, faEnvelope, faHome, faUser, faBars, faSuitcase, faClose } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faInstagram, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faGithub, faInstagram, faLinkedin, faSpotify } from '@fortawesome/free-brands-svg-icons'
 import { useState } from 'react'
 const Sidebar = () => {
     const [showNav, setShowNav] = useState(false);
@@ -51,8 +51,13 @@ const Sidebar = () => {
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/rudransh-arora/'>
+                <a target='_blank' rel='noreferrer' href='https://www.instagram.com/rudr.ansh.arora/'>
                     <FontAwesomeIcon icon={faInstagram} color="#4d4d4e"/>
+                </a>
+            </li>
+            <li>
+                <a target='_blank' rel='noreferrer' href='https://open.spotify.com/user/h5il6nm6by7ma628a4w35szy9'>
+                    <FontAwesomeIcon icon={faSpotify} color="#4d4d4e"/>
                 </a>
             </li>
         </ul>
